@@ -1,0 +1,4 @@
+This is solution for flipkart problem statement: Freshness detection of fruits and vegetable Using Machine learning capabilities to teach the 
+system to predict the freshness and remaining shelf life of fruits and vegetables from image
+
+This Solution works only on following products: 'Apple', 'Banana','Carrot','Cucumber','Potato', 'Strawberry'.
